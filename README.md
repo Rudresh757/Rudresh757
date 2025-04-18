@@ -34,7 +34,7 @@ Currently, I'm working as a **Software Developer Intern at IJ Bridge**, a Japan-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RudraDixit25&show_icons=true&theme=tokyonight" alt="Rudra's GitHub stats"/>
+  <https://github.com/Rudresh757/Inventory-management-with-json>
 </p>
 
 ---
