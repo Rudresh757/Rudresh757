@@ -42,7 +42,7 @@ Currently, I'm working as a **Software Developer Intern at IJ Bridge**, a Japan-
 ## 🤝 Let's Connect!
 
 - 💼 https://www.linkedin.com/in/rudresh-dixit-121909234/
-- 📫 Email: r.techrt123@gmail.com
+- 📫 Email: rudresh.dixit757@gmail.com
 
 ---
 
