@@ -18,7 +18,7 @@ Currently, I'm working as a **Software Developer Intern at IJ Bridge**, a Japan-
 
 - **Languages:** C++, Python, SQL
 - **Specialization:** AI/ML
-- **Tools & Platforms:** GitHub, VS Code, Jupyter Notebook, MySQL
+- **Tools & Platforms:** GitHub, VS Code, Jupyter Notebook, MySQL,Google Colab
 - **Other:** Problem-solving, Competitive Coding (LeetCode, GeeksforGeeks), Team Collaboration
 
 ---
