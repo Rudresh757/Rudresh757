@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rudra Dixit
 
-🎓 Final-year B.Tech CSE Student | 💻 AI/ML Enthusiast | 👨‍💻 Software Developer Intern @ IJ Bridge
+🎓 Final-year B.Tech CSE Student  | 💻 AI/ML Enthusiast  | 👨‍💻 Software Developer Intern @ IJ Bridge
 
 ---
 
